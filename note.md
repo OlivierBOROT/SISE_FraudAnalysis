@@ -1,1 +1,4 @@
-EcartNumCheq: Je ne comprends pas bien la signification des valeurs affichées
+
+# Stratégie de combat
+
+XGBOOST
